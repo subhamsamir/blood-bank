@@ -1,0 +1,15 @@
+.custom_footer{
+    background-color: black;
+    background-color:rgb(32, 25, 25) ;
+    min-height: 150px;
+    max-width: 100%;
+}
+.custom_footer_about{
+    background-color: black;
+    background-color:rgb(32, 25, 25) ;
+    min-height: 100px;
+    max-width: 100%;
+}
+
+
+/* zoom image css*/
